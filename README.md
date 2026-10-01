@@ -31,4 +31,13 @@ The dataset comes from **Maven Analytics** and contains restaurant order data fr
 ---
 
 ## 🔄 Project Workflow
+
+📄 SQL file: `data_profiling.sql`
+📄 SQL file: `Objective1.sql`
+📄 SQL file: `Objective2.sql`
+📄 SQL file: `Objective3.sql`
+📄 SQL file: `business_questions.sql`
+📄 SQL file: `menu_questions.sql`
+📄 SQL file: `top_selling_questions.sql`
+
 ---
