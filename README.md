@@ -33,13 +33,16 @@ The dataset comes from **Maven Analytics** and contains restaurant order data fr
 ## 🔄 Project Workflow
 
 ### Objective 1
+- Examine the menu_items table to understand its structure and contents by identifying the total number of records, the lowest- and highest-priced items, and the price ranges across different categories.
 
 📄 SQL file: `Objective1.sql`
 
 ### Objective 2
+- Analyze the order_details table to determine the date range of the data, the number of items included in each order, and the orders containing the greatest number of items.
 📄 SQL file: `Objective2.sql`
 
 ### Objective 3
+- Join the menu_items and order_details tables to evaluate purchasing patterns, identify the most and least popular categories, and investigate the details of orders with the highest spending.
 📄 SQL file: `Objective3.sql`
 
 ### More Analysis Questions
