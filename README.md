@@ -39,15 +39,18 @@ The dataset comes from **Maven Analytics** and contains restaurant order data fr
 
 ### Objective 2
 - Analyze the order_details table to determine the date range of the data, the number of items included in each order, and the orders containing the greatest number of items.
+
 📄 SQL file: `Objective2.sql`
 
 ### Objective 3
 - Join the menu_items and order_details tables to evaluate purchasing patterns, identify the most and least popular categories, and investigate the details of orders with the highest spending.
+
 📄 SQL file: `Objective3.sql`
 
 ### More Analysis Questions
 📄 SQL file: `business_questions.sql`
+
 📄 SQL file: `menu_questions.sql`
-📄 SQL file: `top_selling_questions.sql`
+
 
 ---
